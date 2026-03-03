@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 style="background-color: red;">Hi</h1>
+<h1 style="background-color: red; width: 100%;">Hi</h1>
 
 <!--
 **jorik004/jorik004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
